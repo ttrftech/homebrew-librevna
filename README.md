@@ -1,6 +1,6 @@
 # homebrew-jankae-vna2
 
-Homebrew formula for jankae's VNA2 project
+Homebrew formula for jankae's VNA2 project. https://github.com/jankae/VNA2
 
 # Install
 
