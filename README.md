@@ -1,16 +1,16 @@
-# homebrew-jankae-vna2
+# homebrew-librevna
 
-Homebrew formula for jankae's VNA2 project. https://github.com/jankae/VNA2
+Homebrew formula for jankae's LibreVNA project. https://github.com/jankae/LibreVNA
 
 # Install
 
 ```
-brew tap ttrftech/homebrew-jankae-vna2
-brew install --HEAD vna2
+brew tap ttrftech/homebrew-librevna
+brew install librevna
 ```
 
 # Run
 
 ```
-open {prefix}/VNA2.app
+open {prefix}/LibreVNA-GUI.app
 ```
